@@ -13,7 +13,7 @@ The Extension uses the following browser permissions:
 -   **`storage`:** This permission is used to store the Extension's settings and preferences locally on your device. This includes your whitelists/blocklists, the chosen level of ad blocking, and anonymous, aggregated statistics about the number of ads and cookies blocked. No personal data is stored, and no data is transmitted to any external servers.
 -   **`cookies`:** This permission is required to interact with the browser's cookies. The Extension uses this permission to automatically manage cookie consent requests (rejecting or accepting them based on your preferences) and to block unwanted tracking cookies. No personal cookie data is collected or transmitted.
 -   **`<all_urls>`:** This permission is required because the ad blocking and cookie management functionality needs to operate on all websites you visit to provide comprehensive protection.
--    **`declarativeNetRequest`:** This permission is used for applying filters and blocking rules. It is used for enhancing the ad blocking without accessing the content of any personal communication
+-    **`declarativeNetRequest`:** This permission is used for applying filters and blocking rules. It is used for enhancing the ad blocking without accessing the content of any personal communication.
 -    **`tabs`**: This permission is necessary to correctly associate the block rules of advertisements and cookies with the correct tab of the browser. The content of the navigation or personal data is not read.
 
 **2. Data Security:**
@@ -26,7 +26,7 @@ The Extension does not use any third-party services that collect or process user
 
 **4. Changes to This Privacy Policy:**
 
-We may update this privacy policy from time to time. We will post any changes on this page [link to your GitHub privacy policy page: https://github.com/luigi9595/Privacy-Policy] and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes, or an update in the Chrome Web Store).
+We may update this privacy policy from time to time. We will post any changes on this page ( [https://github.com/luigi9595/Privacy-Policy](https://github.com/luigi9595/Privacy-Policy) ) and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes, or an update in the Chrome Web Store).
 
 **5. Contact Information:**
 
@@ -37,7 +37,7 @@ If you have any questions about this privacy policy, please contact us at: luigi
 
 # Informativa sulla Privacy per Ad & Cookie Annihilator
 
-**Data di Entrata in Vigore:** March 25, 2025
+**Data di Entrata in Vigore:** 25 Marzo 2025
 
 Questa informativa sulla privacy descrive come "Ad & Cookie Annihilator" (l'"Estensione") gestisce i dati dell'utente. L'Estensione si impegna a proteggere la tua privacy.
 
@@ -63,7 +63,7 @@ L'Estensione non utilizza servizi di terze parti che raccolgono o elaborano i da
 
 **4. Modifiche alla Presente Informativa sulla Privacy:**
 
-Potremmo aggiornare questa informativa sulla privacy di tanto in tanto. Pubblicheremo eventuali modifiche su questa pagina [link alla tua pagina della privacy policy su GitHub: https://github.com/luigi9595/Privacy-Policy] e, se le modifiche sono significative, forniremo un avviso più evidente (incluso, per determinati servizi, la notifica via email delle modifiche all'informativa sulla privacy o un aggiornamento nel Chrome Web Store).
+Potremmo aggiornare questa informativa sulla privacy di tanto in tanto. Pubblicheremo eventuali modifiche su questa pagina ( [https://github.com/luigi9595/Privacy-Policy](https://github.com/luigi9595/Privacy-Policy) ) e, se le modifiche sono significative, forniremo un avviso più evidente (incluso, per determinati servizi, la notifica via email delle modifiche all'informativa sulla privacy o un aggiornamento nel Chrome Web Store).
 
 **5. Informazioni di Contatto:**
 
